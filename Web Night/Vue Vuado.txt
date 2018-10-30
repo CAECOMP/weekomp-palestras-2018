@@ -1,0 +1,3 @@
+Copie e cole esse link no navegador:
+
+https://github.com/sombriks/slides-vue-vuado
